@@ -1,10 +1,10 @@
 # [level 0] 두 수의 합 - 120802 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=scala) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=swift) 
 
 ### 성능 요약
 
-메모리: 89 MB, 시간: 0.40 ms
+메모리: 16.3 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 13일 21:07:14
+2024년 09월 13일 21:07:51
 
 ### 문제 설명
 
